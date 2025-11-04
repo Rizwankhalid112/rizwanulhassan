@@ -8,7 +8,7 @@
 - 💻 Currently focusing on **Web Development using React**
 - 🌱 Learning **JavaScript, React, and Backend Basics**
 - 🚀 I love building simple, clean, and user-focused web applications
-- 🤝 Open to **Internships (Lahore or Remote)**
+
 
 ---
 
