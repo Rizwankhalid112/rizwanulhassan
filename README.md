@@ -36,7 +36,7 @@ Saving data using LocalStorage.
 ### 📫 Contact Me
 - **Email:** *rizwanulhassan707@gmail.com*
 - **WhatsApp:** 0347-5381198
-- **LinkedIn:** *(send me your profile link and I’ll add it here)*
+- **LinkedIn:**  www.linkedin.com/in/rizwan-ul-hassan
 
 ---
 
